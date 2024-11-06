@@ -20,7 +20,7 @@
 
 ### 📫 **Connect with Me**
 <p align="center">
-  <a href="https://linkedin.com/in/vedant raut" target="_blank"><img src="https://img.icons8.com/color/48/8a2be2/linkedin-circled.png" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="www.linkedin.com/in/vedant-raut-a86193259" target="_blank"><img src="https://img.icons8.com/color/48/8a2be2/linkedin-circled.png" alt="LinkedIn" width="40" height="40"/></a>
   <a href="https://instagram.com/vedantsunilraut" target="_blank"><img src="https://img.icons8.com/fluency/48/8a2be2/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
   <a href="https://www.hackerrank.com/vedantsunilraut" target="_blank"><img src="https://img.icons8.com/windows/48/8a2be2/hackerrank.png" alt="Hackerrank" width="40" height="40"/></a>
   <a href="https://www.leetcode.com/vedantsunilraut" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/8a2be2/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Leetcode" width="40" height="40"/></a>
