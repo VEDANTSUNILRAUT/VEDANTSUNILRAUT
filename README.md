@@ -1,29 +1,65 @@
-
 <h1 align="center">Hi 👋, I'm VEDANT RAUT</h1>
-<h3 align="center">A versatile Software Engineer with a strong foundation in C, Java, Data Structures & Algorithms, SQL and a passion for building efficient web solutions.</h3>
-<img align="right" alt="Coder Boy" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Lv_BDa7Dy3wChMo7ZU7AJbbWgoqUg3defw&s">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantsunilraut&label=Profile%20views&color=0e75b6&style=flat" alt="vedantsunilraut" /> </p>
+<h3 align="center">A Versatile Software Engineer Specializing in Web Development, C, Java, Data Structures, Algorithms & SQL</h3>
 
-- 👨‍💻 All of my projects are available at [https://vedantsunilraut.github.io/VEDANT-PORTFOLIO/](https://vedantsunilraut.github.io/VEDANT-PORTFOLIO/)
-
-- 📫 How to reach me **vedantsunilraut@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/17QB5Uwcb_6BvKalWR-bafRPr9t0Rw2V3/view](https://drive.google.com/file/d/17QB5Uwcb_6BvKalWR-bafRPr9t0Rw2V3/view)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vedant raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant raut" height="30" width="40" /></a>
-<a href="https://instagram.com/vedantsunilraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedantsunilraut" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vedantsunilraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vedantsunilraut" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vedantsunilraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedantsunilraut" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vedantsunilraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vedantsunilraut" height="30" width="40" /></a>
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=vedantsunilraut&label=Profile%20Views&color=0e75b6&style=flat" alt="vedantsunilraut" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantsunilraut&show_icons=true&locale=en&layout=compact" alt="vedantsunilraut" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantsunilraut&show_icons=true&locale=en" alt="vedantsunilraut" /></p>
+### 🌐 **Portfolio & Contact**
+- 💻 **Portfolio**: [vedantsunilraut.github.io/VEDANT-PORTFOLIO/](https://vedantsunilraut.github.io/VEDANT-PORTFOLIO/)
+- 📧 **Email**: [vedantsunilraut@gmail.com](mailto:vedantsunilraut@gmail.com)
+- 📄 **Resume**: [View My Experiences](https://drive.google.com/file/d/17QB5Uwcb_6BvKalWR-bafRPr9t0Rw2V3/view)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsunilraut&" alt="vedantsunilraut" /></p>
+---
+
+### 📫 **Connect with Me**
+<p align="center">
+  <a href="https://linkedin.com/in/vedant raut" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://instagram.com/vedantsunilraut" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
+  <a href="https://www.hackerrank.com/vedantsunilraut" target="_blank"><img src="https://img.icons8.com/windows/48/000000/hackerrank.png" alt="Hackerrank" width="40" height="40"/></a>
+  <a href="https://www.leetcode.com/vedantsunilraut" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Leetcode" width="40" height="40"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/vedantsunilraut" target="_blank"><img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" alt="GeeksforGeeks" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🛠️ **Languages & Tools**
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantsunilraut&show_icons=true&theme=radical" alt="vedantsunilraut" width="50%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsunilraut&theme=radical" alt="vedantsunilraut" width="50%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantsunilraut&show_icons=true&locale=en&layout=compact&theme=radical" alt="vedantsunilraut" width="50%"/>
+</p>
+
+---
+
+*Thank you for visiting my profile! Feel free to explore and connect with me!*
