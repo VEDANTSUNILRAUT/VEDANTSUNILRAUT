@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-image-link.com/banner.png" alt="Vedant Raut Banner" width="100%" />
+</p>
+
 <h1 align="center" style="color:#8a2be2;">Hi 👋, I'm VEDANT RAUT</h1>
 <h3 align="center" style="color:#9370db;">A Versatile Software Engineer Specializing in Web Development, C, Java, Data Structures, Algorithms & SQL</h3>
 
@@ -11,28 +15,35 @@
 
 ---
 
-### 🌐 **Portfolio & Contact**
+# About Me 💬
+<img height="400" width="330" alt="GIF" align="right" src="https://github.com/ashuna-dev/ashuna-dev/blob/main/github-readme-gif.gif">
+
+- 👨‍💻 Final Year Computer Science & Engineering Student.
+- 🎓 Learning:
+  - ✨ DSA with JAVA
+  - ✨ Web Development (React.js)
+
+---
+
+# 🌐 Portfolio & Contact
 - 💻 **Portfolio**: [vedantsunilraut.github.io/VEDANT-PORTFOLIO/](https://vedantsunilraut.github.io/VEDANT-PORTFOLIO/)
 - 📧 **Email**: [vedantsunilraut@gmail.com](mailto:vedantsunilraut@gmail.com)
 - 📄 **Resume**: [View My Experiences](https://drive.google.com/file/d/17QB5Uwcb_6BvKalWR-bafRPr9t0Rw2V3/view)
 
 ---
 
-### 📫 **Connect with Me**
+# 📫 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/vedant-raut-a86193259" target="_blank"><img src="https://img.icons8.com/color/48/8a2be2/linkedin-circled.png" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/vedant-raut-a86193259" target="_blank"><img src="https://img.icons8.com/color/48/8a2be2/linkedin-circled.png" alt="LinkedIn" width="40" height="40"/></a>
   <a href="https://instagram.com/vedantsunilraut" target="_blank"><img src="https://img.icons8.com/fluency/48/8a2be2/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
   <a href="https://www.hackerrank.com/vedantsunilraut" target="_blank"><img src="https://img.icons8.com/windows/48/8a2be2/hackerrank.png" alt="Hackerrank" width="40" height="40"/></a>
   <a href="https://www.leetcode.com/vedantsunilraut" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/8a2be2/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Leetcode" width="40" height="40"/></a>
-<a href="https://auth.geeksforgeeks.org/user/vedantsunilraut" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
-</a>
-
+  <a href="https://auth.geeksforgeeks.org/user/vedantsunilraut" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 🛠️ **Languages & Tools**
+# 👨‍💻 Languages & Tools 🛠️
 <p align="center">
   <img src="https://img.icons8.com/color/48/8a2be2/c-programming.png" alt="C" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/8a2be2/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
@@ -52,7 +63,7 @@
 
 ---
 
-### 📊 **GitHub Stats**
+# 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vedantsunilraut&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%"/>
 </p>
