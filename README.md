@@ -16,7 +16,7 @@
 ---
 
 # About Me 💬
-<img height="400" width="330" alt="GIF" align="right" src="https://github.com/ashuna-dev/ashuna-dev/blob/main/github-readme-gif.gif">
+<img height="400" width="330" alt="GIF" align="right" src="https://github.com/VEDANTSUNILRAUT/VEDANTSUNILRAUT/blob/main/Midnight%20Thoughts.gif">
 
 - 👨‍💻 Final Year Computer Science & Engineering Student.
 - 🎓 Learning:
