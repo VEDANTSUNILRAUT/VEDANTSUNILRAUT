@@ -16,7 +16,7 @@
 ---
 
 # About Me 💬
-<img height="400" width="330" alt="GIF" align="right" src="https://github.com/VEDANTSUNILRAUT/VEDANTSUNILRAUT/blob/main/Midnight%20Thoughts.gif">
+<img height="400" width="330" alt="GIF" align="right" src="https://github.com/VEDANTSUNILRAUT/VEDANTSUNILRAUT/blob/main/bf3016dd-8403-496a-9659-2995c0462e90.jpg">
 
 - 👨‍💻 Final Year Computer Science & Engineering Student.
 - 🎓 Learning:
