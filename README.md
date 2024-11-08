@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Vedant Raut Banner" width="100%" />
-</p>
-
 <h1 align="center" style="color:#8a2be2;">Hi 👋, I'm VEDANT RAUT</h1>
 <h3 align="center" style="color:#9370db;">A Versatile Software Engineer Specializing in Web Development, C, Java, Data Structures, Algorithms & SQL</h3>
 
