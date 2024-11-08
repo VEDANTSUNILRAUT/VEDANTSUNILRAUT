@@ -70,10 +70,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantsunilraut&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="50%"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/achievement-100%20commits%20-blueviolet" alt="100 Commits" />
-  <img src="https://img.shields.io/badge/achievement-Open%20Source%20Contributor-green" alt="Open Source Contributor" />
-</p>
 ---
 
 *Thank you for visiting my profile! Feel free to explore and connect with me!*
