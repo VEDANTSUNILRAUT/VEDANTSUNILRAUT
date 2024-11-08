@@ -11,7 +11,7 @@
 
 ---
 
-# About Me 💬
+<h1> About Me 💬</h1>
 <img height="400" width="330" alt="GIF" align="right" src="https://github.com/VEDANTSUNILRAUT/VEDANTSUNILRAUT/blob/main/bf3016dd-8403-496a-9659-2995c0462e90.jpg">
 
 - 👨‍💻 Final Year Computer Science & Engineering Student.
@@ -21,7 +21,7 @@
 
 ---
 
-# 👨‍💻 Languages
+ 👨‍💻 Languages
 <p align="center">
   <img src="https://img.icons8.com/color/48/8a2be2/c-programming.png" alt="C" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/8a2be2/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
@@ -31,7 +31,7 @@
   <img src="https://img.icons8.com/color/48/8a2be2/php.png" alt="PHP" width="40" height="40"/>
 </p>
 
-# 🛠️ Tools
+ 🛠️ Tools
 <p align="center">
   <img src="https://img.icons8.com/color/48/8a2be2/react-native.png" alt="React" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/8a2be2/nodejs.png" alt="Node.js" width="40" height="40"/>
