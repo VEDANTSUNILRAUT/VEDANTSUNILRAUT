@@ -31,8 +31,9 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/8a2be2/c-programming.png" alt="C" title="C"/>
   <img src="https://img.icons8.com/color/48/8a2be2/java-coffee-cup-logo.png" alt="Java" title="Java"/>
-  <img src="https://img.icons8.com/color/48/8a2be2/data-structures.png" alt="DSA" title="Data Structures & Algorithms"/>
+  <img src="./DSA Logo.png" alt="DSA" title="Data Structures & Algorithms" width="50" height="50"/>
 </p>
+
 
 ### 🌐 Frontend Development
 <p align="center">
