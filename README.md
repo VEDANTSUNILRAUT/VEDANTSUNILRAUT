@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+  <img alt="Coding" width="auto" src="coding table.jpg" />
 </div>
 
 ---
