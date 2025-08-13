@@ -13,7 +13,8 @@
 
 ## 🚀 About Me
 
-<img height="250" width="250" alt="Developer" align="right" src="https://github.com/VEDANTSUNILRAUT/VEDANTSUNILRAUT/blob/main/bf3016dd-8403-496a-9659-2995c0462e90.jpg">
+<img height="250" width="250" alt="Developer" align="right" src="https://raw.githubusercontent.com/VEDANTSUNILRAUT/VEDANTSUNILRAUT/main/3D%20Isometric%20Animated%20Pack%20-%20Illustrations.gif">
+
 
 - 🎓 **Computer Science & Engineering Graduate**
 - 💻 Passionate about creating responsive, user-centric web applications
