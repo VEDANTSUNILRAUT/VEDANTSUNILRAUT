@@ -1,10 +1,9 @@
 <h1 align="center" style="color:#8a2be2; border-bottom: 3px solid #9370db; padding-bottom: 10px;">Hi 👋, I'm VEDANT RAUT</h1>
 <h3 align="center" style="color:#9370db;">Passionate Full Stack Developer | Web & Frontend Specialist | Collaborative Technologist</h3>
 
-<div align="center">
-  <img alt="Coding" width="auto" src="coding table.jpg" />
-</div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vedantsunilraut&label=Profile%20Views&color=8a2be2&style=flat" alt="Profile Views" />
+</p>
 ---
 
 ## 🚀 About Me
