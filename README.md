@@ -4,11 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=vedantsunilraut&label=Profile%20Views&color=8a2be2&style=flat" alt="Profile Views" />
 </p>
 
----
+<img height="25" width="700" alt="Developer" src="./212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="margin-left: 20px; margin-bottom: 20px;">
 
 ## 🚀 About Me
 
-<img height="240" width="240" alt="Developer" align="right" src="https://raw.githubusercontent.com/VEDANTSUNILRAUT/VEDANTSUNILRAUT/main/3D%20Isometric%20Animated%20Pack%20-%20Illustrations.gif" style="margin-left: 20px; margin-bottom: 20px;">
+<img height="240" width="240" alt="Developer" align="right" src="./212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style="margin-left: 20px; margin-bottom: 20px;">
 
 - 💼 **Software Development Engineer (SDE) @ Logituit**
 - 📱 Focused on building native Android apps and cross-platform mobile solutions using **Kotlin Multiplatform (KMP)**.
@@ -18,9 +18,7 @@
 
 <br>
 
-> "Transforming complex problems into elegant solutions through clean code and intuitive design."
-
----
+<img height="25" width="700" alt="Developer" src="./212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="margin-left: 20px; margin-bottom: 20px;">
 
 ## 🛠️ Technical Expertise
 
@@ -39,19 +37,15 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/></a>
   <a href="https://www.w3.org/TR/html5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 10px;"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px;"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 10px;"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="margin-right: 10px;"/></a>
 </p>
 
 ### ⚙️ Backend Development & Databases
 
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 10px;"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40" style="margin-right: 10px;"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" style="margin-right: 10px;"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 10px;"/></a>
 </p>
 
 ### 🛠️ Systems, Tools & Architecture
@@ -65,7 +59,7 @@
   <img src="https://img.shields.io/badge/OOP-8a2be2?style=for-the-badge" alt="OOP" height="35" style="vertical-align: top; margin-right: 10px;"/>
 </p>
 
----
+<img height="25" width="700" alt="Developer" src="./212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="margin-left: 20px; margin-bottom: 20px;">
 
 ## 🌐 Connect With Me
 
@@ -81,7 +75,7 @@
   </a>
 </p>
 
----
+<img height="25" width="700" alt="Developer" src="./212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="margin-left: 20px; margin-bottom: 20px;">
 
 ## 📊 Development Activity
 
@@ -94,7 +88,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsunilraut&theme=dark&background=0d1117&ring=8a2be2&fire=9370db&stroke=00000000&currStreakNum=ffffff" alt="GitHub Streak" width="97%" />
 </p>
 
----
+<img height="25" width="700" alt="Developer" src="./212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="margin-left: 20px; margin-bottom: 20px;">
 
 <p align="center">
   <em>"Clean code is not written by following rules. It's written by experience, experimentation, and continuous learning."</em>
