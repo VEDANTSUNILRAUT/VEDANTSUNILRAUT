@@ -1,14 +1,15 @@
-<h1 align="center" style="color:#8a2be2; border-bottom: 3px solid #9370db; padding-bottom: 10px;">Hi 👋, I'm VEDANT RAUT</h1>
-<h3 align="center" style="color:#9370db;">SDE @ Logituit | Android & KMP Developer | Kotlin & Jetpack Compose Specialist</h3>
+<h1 align="center" style=" padding-bottom: 10px;">Hi 👋, I'm VEDANT RAUT</h1>
+
+<img height="25" width="1000" alt="Developer" src="./212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="margin-left: 20px; margin-bottom: 20px;">
+
+<h3 align="center" style="">SDE @ Logituit | Android & KMP Developer | Kotlin & Jetpack Compose </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedantsunilraut&label=Profile%20Views&color=8a2be2&style=flat" alt="Profile Views" />
 </p>
 
-<img height="25" width="700" alt="Developer" src="./212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="margin-left: 20px; margin-bottom: 20px;">
+---
 
 ## 🚀 About Me
-
-<img height="240" width="240" alt="Developer" align="right" src="./212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style="margin-left: 20px; margin-bottom: 20px;">
 
 - 💼 **Software Development Engineer (SDE) @ Logituit**
 - 📱 Focused on building native Android apps and cross-platform mobile solutions using **Kotlin Multiplatform (KMP)**.
@@ -18,7 +19,7 @@
 
 <br>
 
-<img height="25" width="700" alt="Developer" src="./212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="margin-left: 20px; margin-bottom: 20px;">
+---
 
 ## 🛠️ Technical Expertise
 
@@ -59,7 +60,7 @@
   <img src="https://img.shields.io/badge/OOP-8a2be2?style=for-the-badge" alt="OOP" height="35" style="vertical-align: top; margin-right: 10px;"/>
 </p>
 
-<img height="25" width="700" alt="Developer" src="./212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="margin-left: 20px; margin-bottom: 20px;">
+---
 
 ## 🌐 Connect With Me
 
@@ -75,7 +76,7 @@
   </a>
 </p>
 
-<img height="25" width="700" alt="Developer" src="./212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="margin-left: 20px; margin-bottom: 20px;">
+---
 
 ## 📊 Development Activity
 
@@ -88,7 +89,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsunilraut&theme=dark&background=0d1117&ring=8a2be2&fire=9370db&stroke=00000000&currStreakNum=ffffff" alt="GitHub Streak" width="97%" />
 </p>
 
-<img height="25" width="700" alt="Developer" src="./212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="margin-left: 20px; margin-bottom: 20px;">
+---
 
 <p align="center">
   <em>"Clean code is not written by following rules. It's written by experience, experimentation, and continuous learning."</em>
