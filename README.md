@@ -1,13 +1,10 @@
 <h1 align="center" style=" padding-bottom: 10px;">Hi 👋, I'm VEDANT RAUT</h1>
-
-<img height="25" width="1000" alt="Developer" src="./212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="margin-left: 20px; margin-bottom: 20px;">
-
 <h3 align="center" style="">SDE @ Logituit | Android & KMP Developer | Kotlin & Jetpack Compose </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedantsunilraut&label=Profile%20Views&color=8a2be2&style=flat" alt="Profile Views" />
 </p>
 
----
+<img height="25" width="1000" alt="Developer" src="./212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="margin-left: 20px; margin-bottom: 20px;">
 
 ## 🚀 About Me
 
