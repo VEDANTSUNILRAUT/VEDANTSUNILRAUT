@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer Banner" width="100%" />
+  <img src="./assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer Banner" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="./hi.gif" width="35" /> Hey, I'm <font color="#a855f7"><b>Vedant Raut</b></font>!
+  <img src="./assets/hi.gif" width="35" /> Hey, I'm <font color="#a855f7"><b>Vedant Raut</b></font>!
 </h1>
 
 <p align="center">
@@ -39,7 +39,7 @@
       <p><i>"Clean code is not written by following rules. It is written through learning, experimentation, and continuous improvement."</i></p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="./anime.gif" width="100%" style="border-radius: 12px;" alt="Anime GIF" />
+      <img src="./assets/v.gif" width="100%" style="border-radius: 12px;" alt="Vedant Raut GIF" />
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /><br><br>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /><br><br>
         <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" /><br><br>
-        <img src="./android-phone-robot-technologia-a6n3.gif" width="55" alt="Android Animation" />
+        <img src="./assets/android-phone-robot-technologia-a6n3.gif" width="55" alt="Android Animation" />
       </td>
       <td align="center" valign="top" width="25%">
         <h4>🌐 Web Frontend</h4>
@@ -92,17 +92,17 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
-      <img src="./aim.gif" width="60" alt="Aim" /><br><br>
+      <img src="./assets/aim.gif" width="60" alt="Aim" /><br><br>
       <h4><b>Modern Mobile Architecture</b></h4>
       <p align="center">Building scalable Android apps with clean architecture, single source of truth, and modular code structures.</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="./Jetpack Compose.webp" width="60" alt="Compose" /><br><br>
+      <img src="./assets/Jetpack Compose.webp" width="60" alt="Compose" /><br><br>
       <h4><b>Kotlin Multiplatform (KMP)</b></h4>
       <p align="center">Sharing business logic across platforms (Android/iOS) while preserving completely native UI execution.</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="./212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" alt="Web Dev" /><br><br>
+      <img src="./assets/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" alt="Web Dev" /><br><br>
       <h4><b>Full-Stack Integration</b></h4>
       <p align="center">Connecting elegant front-ends to reliable databases via robust RESTful APIs built on Node.js and Express.</p>
     </td>
@@ -114,7 +114,7 @@
 ## 📸 Profile Showcase
 
 <p align="center">
-  <img src="./Screenshot 2026-06-10 230541.png" alt="Vedant Raut Showcase" width="100%" style="border-radius: 12px;" />
+  <img src="./assets/Screenshot 2026-06-10 230541.png" alt="Vedant Raut Showcase" width="100%" style="border-radius: 12px;" />
 </p>
 
 ---
@@ -135,7 +135,7 @@
 ## 🤝 Let's Connect
 
 <div align="center">
-  <img src="./handshake.gif" width="160" alt="Handshake" /><br><br>
+  <img src="./assets/handshake.gif" width="160" alt="Handshake" /><br><br>
   <p>I am always looking forward to collaborating on innovative mobile projects or sharing development knowledge. Feel free to reach out!</p>
 </div>
 
