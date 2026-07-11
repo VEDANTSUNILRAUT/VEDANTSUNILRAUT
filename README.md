@@ -39,7 +39,7 @@
       <p><i>"Clean code is not written by following rules. It is written through learning, experimentation, and continuous improvement."</i></p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="./235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" style="border-radius: 12px;" />
+      <video src="./Absolutely_Here_s_a_Gemini_Ve.mp4" width="100%" style="border-radius: 12px;" autoplay loop muted playsinline></video>
     </td>
   </tr>
 </table>
