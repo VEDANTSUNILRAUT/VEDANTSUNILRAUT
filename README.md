@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer Banner" width="100%" />
+  <img src="./assets/I_reviewed_the_complete_prompt-ezgif.com-video-to-gif-converter.gif" alt="Developer Banner" width="100%" />
 </p>
 
 <h1 align="center">
