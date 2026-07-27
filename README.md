@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/I_reviewed_the_complete_prompt-ezgif.com-video-to-gif-converter.gif" alt="Developer Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Developer Banner" width="100%" />
 </p>
 
 <h1 align="center">
@@ -48,42 +48,49 @@
 
 ## 🛠️ My Tech Stack
 
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td align="center" valign="top" width="25%">
-        <h4>📱 Mobile Development</h4>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /><br><br>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /><br><br>
-        <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" /><br><br>
-        <img src="./assets/android-phone-robot-technologia-a6n3.gif" width="55" alt="Android Animation" />
-      </td>
-      <td align="center" valign="top" width="25%">
-        <h4>🌐 Web Frontend</h4>
-        <p align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="45" alt="React" /> &nbsp;
-          <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="45" alt="JavaScript" /><br><br>
-          <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="45" alt="HTML5" /> &nbsp;
-          <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45" alt="CSS3" />
-        </p>
-      </td>
-      <td align="center" valign="top" width="25%">
-        <h4>⚙️ Backend & DB</h4>
-        <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="45" alt="Node.js" /><br><br>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><br><br>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br><br>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </td>
-      <td align="center" valign="top" width="25%">
-        <h4>🔧 Tools & Concepts</h4>
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="45" alt="Git" /><br><br>
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /><br><br>
-        <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" /><br><br>
-        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-      </td>
-    </tr>
-  </table>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 Mobile & Multiplatform</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK" />
+        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+        <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Web Frontend</h4>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Databases</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔧 Tools & Ecosystem</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -97,7 +104,7 @@
       <p align="center">Building scalable Android apps with clean architecture, single source of truth, and modular code structures.</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="./assets/Jetpack Compose.webp" width="60" alt="Compose" /><br><br>
+      <img src="./assets/jetpack-compose.webp" width="60" alt="Compose" /><br><br>
       <h4><b>Kotlin Multiplatform (KMP)</b></h4>
       <p align="center">Sharing business logic across platforms (Android/iOS) while preserving completely native UI execution.</p>
     </td>
@@ -108,27 +115,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📸 Profile Showcase
-
-<p align="center">
-  <img src="./assets/Screenshot 2026-06-10 230541.png" alt="Vedant Raut Showcase" width="100%" style="border-radius: 12px;" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantsunilraut&show_icons=true&title_color=a855f7&icon_color=d8b4fe&text_color=e2e8f0&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantsunilraut&layout=compact&title_color=a855f7&icon_color=d8b4fe&text_color=e2e8f0&bg_color=0d1117&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsunilraut&theme=dark&background=0d1117&ring=a855f7&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&sideLabels=94a3b8&currStreakLabel=a855f7&dates=94a3b8" alt="GitHub Streak" width="97%" />
-</p>
 
 ---
 
